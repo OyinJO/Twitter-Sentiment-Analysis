@@ -1,0 +1,9 @@
+torch
+torchtext
+scikit-learn            
+numpy      
+collections     
+pandas      
+matplotlib
+jupyter
+ipykernel
